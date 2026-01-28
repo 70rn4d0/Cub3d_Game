@@ -54,7 +54,7 @@ X11 / MiniLibX libraries (Linux/macOS)
 
 Building the Engine
 ```bash
-git clone https://github.com/70rn4d0/42-common-core.git
+git clone https://github.com/70rn4d0/Cub3d_Game.git
 cd Cub3d_game
 make
 ```
